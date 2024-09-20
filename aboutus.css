@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    padding: 0 5px;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+
+h1 {
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#container {
+    background-color: rgb(56, 75, 75);
+    padding: 60px;
+    text-align: justify;
+    color: whitesmoke;
+}
+
+p {
+    padding: 20px;
+    justify-content: center;
+}
+
+button {
+    margin-left: 25px;
+    background-color: rgb(19, 20, 20);
+    color: white;
+}
+
+#container {
+    height: 400px;
+}

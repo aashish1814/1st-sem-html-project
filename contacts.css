@@ -1,0 +1,18 @@
+i:hover{
+    color: blue;
+}
+body{
+    display: flex;
+    padding: 0 5px;
+    min-height: 100vh;
+    background: rgb(164, 164, 226);
+    align-items: center;
+    justify-content: center;
+  }
+ form{
+     width: 50%;
+ }
+ h1{
+     padding-bottom: 20px;
+     padding-left: 160px;
+ }
